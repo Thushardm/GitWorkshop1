@@ -3,3 +3,5 @@ It's a test.txt file in the GitWorkshop1 folder
 created on the local machine
 
 Now I'm changing the file so as to add int the new branch branch1
+
+Adding in the main branch to use pull requests
