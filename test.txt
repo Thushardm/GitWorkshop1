@@ -1,0 +1,3 @@
+Hello
+It's a test.txt file in the GitWorkshop1 folder
+created on the local machine
